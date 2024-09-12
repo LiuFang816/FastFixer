@@ -1,4 +1,4 @@
-# FaseFixer: An Efficient and Effective Approach for Repairing Programming Assignments
+# FastFixer: An Efficient and Effective Approach for Repairing Programming Assignments
 
 ## Introduction
 
